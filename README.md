@@ -1,2 +1,2 @@
 # Calculator-App
-Html Css &amp; Javascript
+HML ,CSS and Javascript project.
